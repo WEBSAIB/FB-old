@@ -1,0 +1,229 @@
+/*============================================*/
+/*     Responsive Css I Pad version Start     */
+/*============================================*/
+
+@media only screen and (max-width: 786px) {
+	.header-area .facebook-images img {
+		overflow: hidden;
+		width: 161px;
+		padding-left: 24px;
+		margin-top: 10px;
+	}
+	
+	.header-area .w-20 {
+		width: 30%;
+		float: left;
+	}
+	
+	.contenar {
+		width: 90%;
+		margin: auto;
+	}
+	
+	.header-area .w-80 {
+		width: 70%;
+	}
+	
+	.header-area .login-area input[type="submit"] {
+		padding: 7px 26px;		
+		font-size: 11px;
+		margin-top: 14px;
+	}
+	
+	.main-area .facbook-helps h3 {
+		font-size: 15px; 
+		line-height: 24px;
+	}
+	
+	.header-area .login-area form {
+		width: 68%;
+	}
+	
+	.login-area .w-10 {
+		float: none;
+	}
+	
+	.main-area .create-hading h1 {
+		font-size: 28px;
+	}
+	
+	.main-area .create-hading h3 {
+		font-size: 14px;
+		margin-bottom: 19px;
+	}
+	
+	.main-area .Reg-from .dob-selector {
+		float: none;
+	}
+	
+	.main-area .Reg-from .dob-link {
+		margin-top: 0px;
+		margin-bottom: 19px;
+	}
+	
+	.main-area .Reg-from .gender-section label {
+		font-size: 15px;
+	}
+	
+	.main-area .Reg-from p {
+		font-size: 11px;
+	}
+	
+	.main-area .Reg-from .create-page p {
+		font-size: 9px;
+	}
+	
+	.main-area .Reg-from .create-page p a {
+		font-size: 10px;
+	}
+	
+	.main-area .Reg-from input[type="submit"] {
+		padding: 6px 40px;
+		border-radius: 5px;
+		font-size: 15px;
+	}
+	
+	.footer-area li a {
+		font-size: 11px;
+	}
+	
+	.footer-area .languages li {
+		font-size: 11px;
+	}
+	
+	.header-area .login-area .w-45 {
+		width: 45%;
+	}
+	
+	.header-area .login-area input[type="text"]:focus, 
+	.header-area .login-area input[type="password"]:focus {
+		border: 2px solid #0984e3;
+	}
+	
+	.main-area .People-images img {
+		width: 100%;
+	}
+
+}
+
+/*============================================*/
+/*      Responsive Css I pad version End      */
+/*============================================*/
+
+
+/*============================================*/
+/*    Responsive Css Mobaile version Start    */
+/*============================================*/
+@media only screen and (max-width: 480px) {
+	.header-area .login-area .w-45 {
+		width: 100%;
+	}
+	
+	.main-area .w-50 {
+		width: 100%;
+	}
+	
+	.main-area .facbook-helps h3 {
+		text-align: center;
+		margin: 24px 0 30px 0px;
+	}
+	
+	.main-area .create-hading {
+		padding: 0;
+		text-align: center;
+	}
+	
+	.main-area .Reg-from {
+		padding-left: 0;
+		overflow: hidden;
+	}
+	
+	.main-area .Reg-from .speeching {
+		padding-right: 5px;
+	}
+	
+	.footer-area li a {
+		font-size: 10px;
+	}
+	
+	.footer-area .languages li {
+		line-height: 18px; 
+	}
+	
+	.header-area .facebook-images img {
+		overflow: hidden;
+		width: 150px;
+		padding: 0 0;
+		margin: 0 0 8px;
+	}
+	
+	.header-area .facebook-images {
+		text-align: center;
+	}
+	
+	.header-area .login-area input[type="text"]:focus, 
+	.header-area .login-area input[type="password"]:focus {
+		border: 4px solid #0984e3;
+	}
+	
+	.header-area .w-20 {
+		float: none;
+		width: 100%;
+	}
+	
+	.header-area .w-80 {
+		width: 100%
+	}
+	
+	.header-area .contenar {
+	  overflow: hidden;
+	  box-sizing: border-box;
+	  border-radius: 0px;
+	}
+	  
+	.header-area .login-area form {
+		width: 100%;
+	}
+	
+	.header-area .login-area input[type="text"], 
+	.header-area .login-area input[type="password"] {
+		width: 90%;
+		padding: 5px;
+	}
+	
+	.header-area .login-area input[type="submit"] {
+		width: 100%;
+		padding: 8px;
+		font-weight: bold;
+		font-size: 12px;
+		margin-left: 12px;
+	}
+	
+	.main-area .People-images img {
+		width: 100%;
+		margin-left: 0;
+	}
+	
+	.main-area .Reg-from .w-50 {
+	  width: 50%;
+	  float: left;
+	}
+	
+	.main-area .create-hading h1 {
+		font-size: 25px;
+	}
+	
+	.main-area .create-hading h4 {
+		font-size: 12px;
+		margin-bottom: 26px;
+	}
+	
+	.main-area .Create-Page {
+		text-align: center;
+	} 
+}
+/*============================================*/
+/*     Responsive Css Mobaile version End     */
+/*============================================*/
+
+
