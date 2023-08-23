@@ -10,7 +10,11 @@ body {
     margin: auto;
     overflow: hidden;
   }
-  
+
+  .facebook-images  img{
+    width: 590px;
+    height: 100px;
+  }
   .w-20 {
     width: 20%;
     float: left;
@@ -116,14 +120,14 @@ body {
     line-height: 32px;
     font-family: Arial;
     font-size: 22px;
+    margin: 53px 0 0 59px;
   }
   
   .main-area .People-images img {
-    margin: 18px 0 0 22px;
+    margin: 82px 0 0 47px;
     width: 450px;
     height: 220px;
   }
-  
   .main-area .create-hading h1 {
     margin: 0;
     font-size: 33px;
